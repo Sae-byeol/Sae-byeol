@@ -3,7 +3,7 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <br/>
 <p align="center">
-  ## 🛠 Skills
+ ##💻 Algorithm Blog
 <img src="https://img.shields.io/badge/-velog-11B484?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toquf0797"/>
 <br/>
   
