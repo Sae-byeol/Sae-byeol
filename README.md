@@ -9,5 +9,7 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sae-byeol&layout=compact)](https://github.com/Sae-byeol/github-readme-stats)
+
 
 
