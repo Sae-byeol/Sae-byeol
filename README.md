@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=pink&height=300&section=header&text=Sae-byeol&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Sae%20byeol&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 
-https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toquf0797
+<img src="https://img.shields.io/badge/-velog-A8B9CC?style=flat-square&logo=Vimeo&logoColor=#1AB7EA"/>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=****&layout=compact)](https://github.com/Sae-byeol/github-readme-stats)
+
+
