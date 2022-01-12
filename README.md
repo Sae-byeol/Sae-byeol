@@ -2,12 +2,16 @@
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <br/>
+
 <p align="center">
  ##💻 Algorithm Blog
+ </br>
 <img src="https://img.shields.io/badge/-velog-11B484?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toquf0797"/>
 <br/></p>
+
  <p align="center">
   ## 🛠 Skills
+ <br/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -17,7 +21,7 @@
 
 <p align="center">
   ## 🌱 What I learned.
- 
+ <br/>
   <img src="https://img.shields.io/badge/-android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
    <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
