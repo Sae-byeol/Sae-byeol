@@ -4,13 +4,15 @@
 <br/>
 
 <p align="center">
- ##💻 Algorithm Blog
+ <h3 align="center"><b>💻 Algorithm Blog</b></h3>
+
  </br>
 <img src="https://img.shields.io/badge/-velog-11B484?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toquf0797"/>
 <br/></p>
 
  <p align="center">
-  ## 🛠 Skills
+ <h3 align="center"><b>🛠 Skills</b></h3>
+  
  <br/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -20,7 +22,8 @@
 </br></p>
 
 <p align="center">
-  ## 🌱 What I learned.
+ <h3 align="center"><b>🌱 What I learned.</b></h3>
+ 
  <br/>
   <img src="https://img.shields.io/badge/-android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
    <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
