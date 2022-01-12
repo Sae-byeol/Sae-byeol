@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Sae%20byeol&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+# ✨ 오새별
+- 💻 Front-end Developer
 <div align="center">
 
-  -:smiley:front-end developer
+ 
 <p align="center">
  <h3 align="center"><b>💻 Algorithm Blog</b></h3>
  </br>
