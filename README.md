@@ -4,8 +4,7 @@
 <br/>
 
 <p align="center">
- <h3 align="center"><b>💻 Algorithm Blog</b></h3>
-
+ <h5 align="center"><b>💻 Algorithm Blog</b></h3>
  </br>
 <img src="https://img.shields.io/badge/-velog-11B484?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toquf0797"/>
 <br/></p>
