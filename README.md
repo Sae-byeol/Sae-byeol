@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Sae%20byeol&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 <div align="center">
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-<br/>
 
 <p align="center">
- <h5 align="center"><b>💻 Algorithm Blog</b></h3>
+ <h3 align="center"><b>💻 Algorithm Blog</b></h3>
  </br>
 <img src="https://img.shields.io/badge/-velog-11B484?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toquf0797"/>
 <br/></p>
