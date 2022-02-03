@@ -5,9 +5,9 @@
 
  
 <p align="center">
- <h3 align="center"><b>💻 Algorithm Blog</b></h3>
+ <h3 align="center"><b>💻 Blog</b></h3>
  </br>
-<img src="https://img.shields.io/badge/-velog-11B484?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toquf0797"/>
+<img src="https://img.shields.io/badge/-velog-11B484?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@toquf0797/>
 <br/></p>
 
  <p align="center">
