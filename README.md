@@ -8,7 +8,7 @@
 
  <h3 align="center"><b>💻 Blog</b></h3>
  </br>
-  <a href="=https://velog.io/@toquf0797">
+ https://velog.io/@toquf0797
 <img src="https://img.shields.io/badge/-velog-11B484?style=flat-square&logo=Vimeo&logoColor=white"/> 
  </a>
 <br/></p>
