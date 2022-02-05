@@ -8,10 +8,13 @@
 <p align="center">
 
  <h3 align="center"><b>💻 Blog</b></h3>
- </br>
+ <br/>
  <img src="https://img.shields.io/badge/-velog-11B484?style=flat-square&logo=Vimeo&logoColor=white"/> 
  https://velog.io/@toquf0797
-
+ <br/></p>
+ 
+ <h3>my project<h3/>
+ please click my pinned repo👇😀
  
 <br/></p>
 
