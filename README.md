@@ -7,10 +7,10 @@
  
 <p align="center">
 
- 포트폴리오
+ ✨포트폴리오<br/>
  https://separated-haircut-61a.notion.site/50010659f0c044859b839011ee348081
  <br/>
- 기술블로그
+ ✨기술블로그<br/>
  https://velog.io/@toquf0797
  <br/></p>
  
