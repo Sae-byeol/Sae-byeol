@@ -7,11 +7,13 @@
  
 <p align="center">
 
- <h3 align="center"><b>💻 Blog</b></h3>
+ 포트폴리오
+ https://separated-haircut-61a.notion.site/50010659f0c044859b839011ee348081
  <br/>
- <img src="https://img.shields.io/badge/-velog-11B484?style=flat-square&logo=Vimeo&logoColor=white"/> 
+ 기술블로그
  https://velog.io/@toquf0797
  <br/></p>
+ 
  
  <h3>😁my project<h3/>
  please click my pinned repo👇😀
