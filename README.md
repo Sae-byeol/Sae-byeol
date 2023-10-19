@@ -8,7 +8,7 @@
 <p align="center">
 
  ✨포트폴리오<br/>
-  https://separated-haircut-61a.notion.site/cba8d9b2864d4ee28ccb0bbde1d0f43f?pvs=4
+https://separated-haircut-61a.notion.site/cba8d9b2864d4ee28ccb0bbde1d0f43f?pvs=4
  <br/>
  ✨기술블로그<br/>
  https://velog.io/@toquf0797
