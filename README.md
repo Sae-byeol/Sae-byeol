@@ -28,7 +28,11 @@
   - JavaScript<br/>
   - TypeScript<br/>
   - Redux <br/>
+  - Recoil <br/>
+  - React-query<br/>
+  - axios <br/>
   - Styled-components<br/>
+  - ThreeJS <br/>
   - Git
   <br/>
 </br></p>
@@ -37,7 +41,7 @@
  <h3 align="center"><b>🌱 What I learned.</b></h3>
  
  <br/>
- Recoil, C, Python, Java, SQL, Android, Figma, Algorithm
+ C, Python, Java, Spring, SQL, Android, Figma, Algorithm
   
 </p>
 
